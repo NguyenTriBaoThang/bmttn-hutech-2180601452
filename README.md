@@ -32,7 +32,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 			<td align="center" valign="top">
 					<img src="https://github.com/HTD-0307.png?s=150" loading="lazy" width="150" height="150">
 	        <br>
-	        <a href="https://github.com/HTD-0307">Thuan An</a>
+	        <a href="https://github.com/HTD-0307">Thành Đô</a>
 	        <p>
 	          <a href="https://github.com/HTD-0307/bmttnc-hutech-2180601452/commits?author=HTD-0307" title="Developer">💻</a>
 	        </p>
